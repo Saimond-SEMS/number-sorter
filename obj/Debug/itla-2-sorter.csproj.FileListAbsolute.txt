@@ -1,0 +1,6 @@
+/home/sai/Escritorio/code/cSharp/itla-2/itla-2-sorter/obj/Debug/itla-2-sorter.csproj.AssemblyReference.cache
+/home/sai/Escritorio/code/cSharp/itla-2/itla-2-sorter/obj/Debug/itla-2-sorter.csproj.CoreCompileInputs.cache
+/home/sai/Escritorio/code/cSharp/itla-2/itla-2-sorter/bin/Debug/itla-2-sorter.exe
+/home/sai/Escritorio/code/cSharp/itla-2/itla-2-sorter/bin/Debug/itla-2-sorter.pdb
+/home/sai/Escritorio/code/cSharp/itla-2/itla-2-sorter/obj/Debug/itla-2-sorter.exe
+/home/sai/Escritorio/code/cSharp/itla-2/itla-2-sorter/obj/Debug/itla-2-sorter.pdb

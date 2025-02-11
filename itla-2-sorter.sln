@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "itla-2-sorter", "itla-2-sorter.csproj", "{E7570542-E90F-4F5F-AA2D-E37FC08CAED8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7570542-E90F-4F5F-AA2D-E37FC08CAED8}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{E7570542-E90F-4F5F-AA2D-E37FC08CAED8}.Debug|anycpu.Build.0 = Debug|anycpu
+		{E7570542-E90F-4F5F-AA2D-E37FC08CAED8}.Release|anycpu.ActiveCfg = Release|anycpu
+		{E7570542-E90F-4F5F-AA2D-E37FC08CAED8}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
